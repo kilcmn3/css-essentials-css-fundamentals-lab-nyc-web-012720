@@ -18,3 +18,8 @@ img {
     margin-right: auto;
     width: 40%;
 }
+
+p #featured-property {
+  width: 800px;
+  text-align: center;;
+}
