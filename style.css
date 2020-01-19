@@ -24,6 +24,11 @@ nav {
   display: block;
   float: left;
   background-color: red;
-  text-align: center;
+
   width: 25%;
+}
+
+div {
+  display: block;
+  text-align: text-align: center;
 }
