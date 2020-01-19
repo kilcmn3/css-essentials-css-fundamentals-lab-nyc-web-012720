@@ -23,7 +23,7 @@ nav {
 #details {
   display: block;
   text-align: center;
-    background-color: : red;
+  background : red;
 }
 
 div {
@@ -31,5 +31,4 @@ div {
   float: left;
   text-align: center;
   width: 25%;
-
 }
