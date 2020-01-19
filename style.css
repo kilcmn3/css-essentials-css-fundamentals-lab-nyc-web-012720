@@ -23,4 +23,5 @@ nav {
 #details {
   display: block;
   float: left;
+  background-color: red;
 }
